@@ -14,7 +14,9 @@
 | 安全           | 特殊消息合集<br>消息警告（根据设定规则警告提醒）<br>实时监督聊天<br>撤回、编辑消息源消息查看<br>登录限制（IP白名单、MAC地址限制仅对管理生效）<br>音频通话、视频通话记录<br>每个对话窗口均为独立的非对称加密传输、保存 |
 | 动态访问       | 每日首次进入或访问速度变慢时，系统将智能切换至最快线路                                                                                                                                                                |
 
-
+![Image text](https://github.com/block-666/block-im/blob/main/src/main/resources/static/img/a.gif)
+![Image text](https://github.com/block-666/block-im/blob/main/src/main/resources/static/img/b.png)
+![Image text](https://github.com/block-666/block-im/blob/main/src/main/resources/static/img/c.png)
 
 本系统是分布式聊天系统的核心，从零实现分布式，与各服务器之间使用socket通信。 系统主要采用Spring Cloud系列框架，系统在数据交换采用json进行交换，同时在通信时，采用aes进行加密。 在聊天服务器加入本集群管理时，将分配给该服务器一个编号和本次会话的加密密钥。下次通信将全部采用aes进行加密通信。
 

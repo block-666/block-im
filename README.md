@@ -28,5 +28,5 @@
 
 
 需要演示或私有化部署请联系
-telegram：@hm_sky
+telegram：[@hm_sky](https://t.me/hm_sky)
 ![Image text](https://github.com/block-666/block-im/blob/main/src/main/resources/static/img/contact_way.jpg)
